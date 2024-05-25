@@ -1,0 +1,4 @@
+/home/michael/build-Phonebook-First-Debug/CMakeFiles/Phonebook.dir
+/home/michael/build-Phonebook-First-Debug/CMakeFiles/edit_cache.dir
+/home/michael/build-Phonebook-First-Debug/CMakeFiles/rebuild_cache.dir
+/home/michael/build-Phonebook-First-Debug/CMakeFiles/Phonebook_autogen.dir
